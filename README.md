@@ -3,10 +3,10 @@
 Part-of-speech (PoS) tagging is the task of assigning syntactic categories to words in
 a given sentence according to their syntactic roles in that context, such as a noun,
 adjective, verb etc. A PoS tagger takes a sentence as input and generates a word/tag
-tuples as output:
-  Example An example tagging:
-    İnput:Bunu zaten biliyordum. (I have already known that.)
-    Output:Bunu/Pron zaten/Adv biliyordum/Verb ./Punc
+tuples as output:  
+  Example An example tagging:  
+    İnput: Bunu zaten biliyordum. (I have already known that.)  
+    Output: Bunu/Pron zaten/Adv biliyordum/Verb ./Punc  
 This application contains implementation of  PoS tagger using Hidden Markov Models
 (HMMs).
 # Dataset

@@ -1,4 +1,4 @@
-# PoS-Tagging
+# PoS Tagging
 # Introduction
 Part-of-speech (PoS) tagging is the task of assigning syntactic categories to words in
 a given sentence according to their syntactic roles in that context, such as a noun,
